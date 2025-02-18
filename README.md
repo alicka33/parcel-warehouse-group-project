@@ -4,6 +4,9 @@ This project implements algorithms for optimizing **parcel placement in a 2D war
 
 ![Alt text](parcel_warehouse.jpg)
 
+The picture illustrates an example of package distribution in the warehouse.   
+O represents empty spaces, p indicates regular packages, P denotes priority packages, and H marks heavy packages. 
+
 --------------------------------------------------------------------------------------------------------------------------------------------------
 **This group project was created for the Objective Programming course during my second semester at WUT.**
 
