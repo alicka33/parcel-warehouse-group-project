@@ -2,6 +2,8 @@
 
 This project implements algorithms for optimizing **parcel placement in a 2D warehouse space**. The warehouse consists of different field types, and **parcels are categorized as regular, priority, or heavy**, each with specific placement rules. The Logistics class manages parcel distribution using a strategy pattern, allowing different **algorithms like RandomPlacement, TightPlacement, and EasyAccessPlacement**. The Storage class represents the warehouse, **handling parcel placement and retrieval**. Future expansions include 3D space support, new parcel types, and additional placement strategies.
 
+![Alt text](parcel_warehouse.jpg)
+
 --------------------------------------------------------------------------------------------------------------------------------------------------
 **This group project was created for the Objective Programming course during my second semester at WUT.**
 
